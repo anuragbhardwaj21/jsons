@@ -6,7 +6,7 @@
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Male",
-      "Category": "Shirts",
+      "category": "Shirts",
       "price": 45
     },
     {
@@ -15,7 +15,7 @@
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Male",
-      "Category": "Shirts",
+      "category": "Shirts",
       "price": 60
     },
     {
@@ -24,7 +24,7 @@
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Male",
-      "Category": "Shirts",
+      "category": "Shirts",
       "price": 60
     },
     {
@@ -33,7 +33,70 @@
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Male",
-      "Category": "Shirts",
+      "category": "Shirts",
+      "price": 60
+    },
+    {
+      "id": 5,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Female",
+      "category": "Jeans",
+      "price": 60
+    },
+    {
+      "id": 6,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Female",
+      "category": "Trousers",
+      "price": 60
+    },
+    {
+      "id": 7,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Female",
+      "category": "Suits",
+      "price": 60
+    },
+    {
+      "id": 8,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Female",
+      "category": "Saree",
+      "price": 60
+    },
+    {
+      "id": 9,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Female",
+      "category": "Kurti",
+      "price": 60
+    },
+    {
+      "id": 10,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Female",
+      "category": "Lehenga",
+      "price": 60
+    },
+    {
+      "id": 22,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Female",
+      "category": "Jacktes",
       "price": 60
     }
   ]
