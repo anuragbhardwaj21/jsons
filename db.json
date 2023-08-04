@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Male",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Male",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Male",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Male",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Female",
@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Female",
@@ -56,7 +56,7 @@
     },
     {
       "id": 7,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Female",
@@ -65,7 +65,7 @@
     },
     {
       "id": 8,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Female",
@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Female",
@@ -83,7 +83,7 @@
     },
     {
       "id": 10,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Female",
@@ -92,7 +92,7 @@
     },
     {
       "id": 22,
-      "image": "anurag.com",
+      "image": "https://assets.thehansindia.com/h-upload/2022/07/18/1303611-pro.webp",
       "name": "Anurag",
       "desc": "This is a dummy Description",
       "gender": "Female",
