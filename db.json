@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Male",
+      "Category": "Shirts",
+      "price": 45
+    },
+    {
+      "id": 2,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Male",
+      "Category": "Shirts",
+      "price": 60
+    },
+    {
+      "id": 3,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Male",
+      "Category": "Shirts",
+      "price": 60
+    },
+    {
+      "id": 4,
+      "image": "anurag.com",
+      "name": "Anurag",
+      "desc": "This is a dummy Description",
+      "gender": "Male",
+      "Category": "Shirts",
+      "price": 60
+    }
+  ]
+}
